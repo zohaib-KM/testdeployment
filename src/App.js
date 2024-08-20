@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import BeforeAfterSlider from 'react-before-after-slider-component';
-import 'react-before-after-slider-component/dist/build.css';
+import 'react-before-after-slider-component/build.css';  // Correct import path
 
 const BEFORE_IMAGE = 'https://via.placeholder.com/800x400.png?text=Before';
 const AFTER_IMAGE = 'https://via.placeholder.com/800x400.png?text=After';
